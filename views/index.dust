@@ -1,0 +1,11 @@
+{> "layout" /}
+
+{<body}
+	<h1>Books</h1>
+	{#Books}
+		{title}
+
+	{/Books}
+
+
+{/body}

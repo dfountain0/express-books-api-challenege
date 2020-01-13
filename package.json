@@ -1,0 +1,23 @@
+{
+	"name": "book",
+	"version": "1.0.0",
+	"description": "book manager",
+	"main": "app.js",
+	"scripts": {
+		"test": "node app.js"
+	},
+	"author": "Don Fountain",
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "*",
+		"consolidate": "*",
+		"dust": "*",
+		"dustjs-helpers": "*",
+		"dustjs-linkedin": "*",
+		"express": "4.16.4",
+		"google-books-search": "^0.3.1",
+		"googleapis": "^46.0.0",
+		"og": "0.0.2",
+		"pg": "^7.17.1"
+	}
+}
